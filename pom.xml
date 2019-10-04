@@ -86,6 +86,14 @@
 			<scope>runtime</scope>
 		</dependency>
 
+
+		<!-- Own libraries -->
+		<dependency>
+			<groupId>war.naval</groupId>
+			<artifactId>batlleship-common</artifactId>
+			<version>0.0.0.1</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
